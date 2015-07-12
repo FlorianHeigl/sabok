@@ -376,3 +376,9 @@ Allspaw, John and Jesse Robbins. http://shop.oreilly.com/product/0636920000136.d
 * Yourdon, Ed. http://yourdon.com/strucanalysis/[_Just Enough Structured Analysis_] - a basic systems engineering text
 
 * ?? Need something for troubleshooting ??
+
+
+
+* Allen, Network maintenance and troubleshooting
+* Oggerino, High availability network fundamentals
+* Best, Linux Debugging and Performance Tuning
